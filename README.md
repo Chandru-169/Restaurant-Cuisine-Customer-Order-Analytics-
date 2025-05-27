@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/5e1dc4c0-a4da-437a-b5d7-155c3782e64d)
 This project presents an end-to-end data analysis and visualization of restaurant customer orders using **Advanced SQL** and **Power BI**. The goal is to uncover actionable insights into cuisine popularity, promo code effectiveness, customer behavior, and restaurant performance.
 
-**Table of Contents**
+## Table of Contents
 
 1. Project Objective
 2. Business Questions Addressed and Key Metrics Derived Using Advanced SQL
