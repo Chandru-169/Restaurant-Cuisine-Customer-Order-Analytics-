@@ -4,12 +4,10 @@ This project presents an end-to-end data analysis and visualization of restauran
 **Table of Contents**
 
 1. Project Objective
-2. Data Preparation & Setup
-3. Business Questions Addressed via SQL
-4. Key Metrics Derived Using Advanced SQL
-5. Power BI Visualization for Key Insights
-6. Summary of Analytical Insights
-7. Strategic Takeaways
+2. Business Questions Addressed and Key Metrics Derived Using Advanced SQL
+3. Power BI Visualization for Key Insights
+4. Summary of Analytical Insights
+5. Strategic Takeaways
 
 **Project Objectives**
 
@@ -18,7 +16,7 @@ This project presents an end-to-end data analysis and visualization of restauran
 3. Perform comprehensive analysis of customer order data across multiple restaurant cuisines using Power BI
 4. To uncover actionable insights that can inform strategic decisions in restaurant operations, marketing, and customer engagement
 
-**Business Questions Addressed via SQL**
+**Business Questions Addressed and Key Metrics Derived Using Advanced SQL**
 
 Utilized advanced SQL techniques including **aggregate functions, window functions, joins, subqueries, conditional logic, sorting, date/time operations, and data filtering** to address and solve key business scenarios outlined in the analysis.
 
@@ -29,6 +27,8 @@ Utilized advanced SQL techniques including **aggregate functions, window functio
 5. **Every 3rd Order Tracker**: Used to trigger personalized messages after every 3rd order
 6. **Promo-Only Loyal Customers**: Identified customers who placed multiple orders, all with promo codes
 7. **Promo-Free First Orders**: Calculated percentage of customers acquired without using a promo code
+
+Additionally, key metrics such as **Total Orders, Weekend Orders, Week Orders, Promo Orders, % of Weekend, % of Promo Orders** derived.
 
 **Power BI Visualization for Key Insights**
 
@@ -41,12 +41,11 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
 5. **Track order trends over time** including weekly and weekend-based variations
 6. **Support data-driven decision-making** for marketing, menu optimization, and customer retention strategies
 
-   **Exploratory Data Analysis (EDA) Overview**
+   **Dashboard Screenshots**
 
    ![Screenshot 2025-05-26 211008](https://github.com/user-attachments/assets/b4fe3455-4bc7-486d-bffb-97aba7fde609)
 
-   **Deep dive: Customer – Cuisine – Promo / Weekend Order Pattern**
-
+   
    ![Screenshot 2025-05-26 211153](https://github.com/user-attachments/assets/887babda-9cbb-4a7f-a66b-de45cf42bc49)
 
    **Summary of Analytical Insights**
@@ -55,8 +54,8 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
 
    **Strategic Takeaways**
 
-   1. **Lebanese cuisine** is the most popular and has the highest promo usage
-   2. **Promo codes** significantly influence order volume
-   3. **Customer retention** is low — most customers order only once
-   4. **Weekend orders** are relatively low, suggesting an opportunity for targeted weekend promotions
+1. **Lebanese cuisine** is the most popular and has the highest promo usage
+2. **Promo codes** significantly influence order volume
+3. **Customer retention** is low — most customers order only once
+4. **Weekend orders** are relatively low, suggesting an opportunity for targeted weekend promotions
       
