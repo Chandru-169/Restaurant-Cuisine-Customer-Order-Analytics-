@@ -9,14 +9,14 @@ This project presents an end-to-end data analysis and visualization of restauran
 4. Summary of Analytical Insights
 5. Strategic Takeaways
 
-**Project Objectives**
+## Project Objectives
 
 1. Perform Exploratory Data Analysis (EDA) to get familiar with the dataset: its size, shape, data types, and structure
 2. Perform advanced SQL analytics on restaurant order data to derive business insights using MySQL
 3. Perform comprehensive analysis of customer order data across multiple restaurant cuisines using Power BI
 4. To uncover actionable insights that can inform strategic decisions in restaurant operations, marketing, and customer engagement
 
-**Business Questions Addressed and Key Metrics Derived Using Advanced SQL**
+## Business Questions Addressed and Key Metrics Derived Using Advanced SQL
 
 Utilized advanced SQL techniques including **aggregate functions, window functions, joins, subqueries, conditional logic, sorting, date/time operations, and data filtering** to address and solve key business scenarios outlined in the analysis.
 
@@ -30,7 +30,7 @@ Utilized advanced SQL techniques including **aggregate functions, window functio
 
 Additionally, key metrics such as **Total Orders, Weekend Orders, Week Orders, Promo Orders, % of Weekend, % of Promo Orders** derived.
 
-**Power BI Visualization for Key Insights**
+## Power BI Visualization for Key Insights
 
 Leveraged Power BI capabilities to create calculated columns and measures using **DAX** functions. Developed a **variety of visualizations including line and stacked column charts, stacked bar charts, ribbon charts, matrix tables, KPI cards, pie charts, and donut charts** to effectively communicate key insights and performance indicators.
 
@@ -41,18 +41,18 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
 5. **Track order trends over time** including weekly and weekend-based variations
 6. **Support data-driven decision-making** for marketing, menu optimization, and customer retention strategies
 
-   **Dashboard Screenshots**
+## Dashboard Screenshots
 
    ![Screenshot 2025-05-26 211008](https://github.com/user-attachments/assets/b4fe3455-4bc7-486d-bffb-97aba7fde609)
 
    
    ![Screenshot 2025-05-26 211153](https://github.com/user-attachments/assets/887babda-9cbb-4a7f-a66b-de45cf42bc49)
 
-   **Summary of Analytical Insights**
+## Summary of Analytical Insights
 
    ![Screenshot 2025-05-26 211359](https://github.com/user-attachments/assets/a803b10e-edd3-4ac8-b761-90fdcd768135)
 
-   **Strategic Takeaways**
+## Strategic Takeaways**
 
   **1. Lebanese cuisine** is the most popular and has the highest promo usage
   
