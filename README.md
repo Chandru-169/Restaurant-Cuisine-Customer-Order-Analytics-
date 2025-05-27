@@ -55,7 +55,10 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
    **Strategic Takeaways**
 
   **1. Lebanese cuisine** is the most popular and has the highest promo usage
+  
   **2. Promo codes** significantly influence order volume
+  
   **3. Customer retention** is low — most customers order only once
+  
   **4. Weekend orders** are relatively low, suggesting an opportunity for targeted weekend promotions
         
