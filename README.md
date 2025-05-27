@@ -52,7 +52,7 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
 
    ![Screenshot 2025-05-26 211359](https://github.com/user-attachments/assets/a803b10e-edd3-4ac8-b761-90fdcd768135)
 
-## Strategic Takeaways**
+## Strategic Takeaways
 
   **1. Lebanese cuisine** is the most popular and has the highest promo usage
   
