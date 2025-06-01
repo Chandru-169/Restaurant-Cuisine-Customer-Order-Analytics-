@@ -1,4 +1,12 @@
-This project presents an end-to-end data analysis and visualization of restaurant customer orders using **Advanced SQL** and **Power BI**. The goal is to uncover actionable insights into cuisine popularity, promo code effectiveness, customer behavior, and restaurant performance.
+## SQL Script and Power BI Dashboard Recording
+
+https://github.com/user-attachments/assets/eb4f0126-722d-4eed-9e1b-171f36e46866
+
+## Power Point Presentation
+
+[Uploading Final Report - Restaurant Customer Order Analytics.pptx…]()
+
+**Introduction:** This project presents an end-to-end data analysis and visualization of restaurant customer orders using **Advanced SQL** and **Power BI**. The goal is to uncover actionable insights into cuisine popularity, promo code effectiveness, customer behavior, and restaurant performance.
 
 ## Table of Contents
 
@@ -40,12 +48,6 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
 5. **Track order trends over time** including weekly and weekend-based variations
 6. **Support data-driven decision-making** for marketing, menu optimization, and customer retention strategies
 
-## Dashboard Screenshots
-
-   ![Screenshot 2025-05-26 211008](https://github.com/user-attachments/assets/b4fe3455-4bc7-486d-bffb-97aba7fde609)
-
-   
-   ![Screenshot 2025-05-26 211153](https://github.com/user-attachments/assets/887babda-9cbb-4a7f-a66b-de45cf42bc49)
 
 ## Summary of Analytical Insights
 
@@ -60,4 +62,11 @@ Leveraged Power BI capabilities to create calculated columns and measures using 
   **3. Customer retention** is low — most customers order only once
   
   **4. Weekend orders** are relatively low, suggesting an opportunity for targeted weekend promotions
+
+## Appendix: Dashboard Screenshots
+
+   ![Screenshot 2025-05-26 211008](https://github.com/user-attachments/assets/b4fe3455-4bc7-486d-bffb-97aba7fde609)
+
+   
+   ![Screenshot 2025-05-26 211153](https://github.com/user-attachments/assets/887babda-9cbb-4a7f-a66b-de45cf42bc49)
         
