@@ -4,7 +4,8 @@ https://github.com/user-attachments/assets/eb4f0126-722d-4eed-9e1b-171f36e46866
 
 ## Power Point Presentation
 
-[Uploading Final Report - Restaurant Customer Order Analytics.pptx…]()
+[Final Report - Restaurant Customer Order Analytics.pptx](https://github.com/user-attachments/files/20540303/Final.Report.-.Restaurant.Customer.Order.Analytics.pptx)
+
 
 **Introduction:** This project presents an end-to-end data analysis and visualization of restaurant customer orders using **Advanced SQL** and **Power BI**. The goal is to uncover actionable insights into cuisine popularity, promo code effectiveness, customer behavior, and restaurant performance.
 
