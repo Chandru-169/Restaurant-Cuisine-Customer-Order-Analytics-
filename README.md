@@ -1,6 +1,7 @@
 ## SQL Script and Power BI Dashboard Recording
 
-https://github.com/user-attachments/assets/eb4f0126-722d-4eed-9e1b-171f36e46866
+https://github.com/user-attachments/assets/5fa1eb7e-58b9-495f-81c2-3e999e51472c
+
 
 ## Power Point Presentation
 
